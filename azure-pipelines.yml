@@ -37,5 +37,4 @@
 
           - script: java -jar target/mavenjenkins-1.0-SNAPSHOT.jar
 
-
             displayName: 'Running jar'
