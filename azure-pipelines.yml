@@ -35,7 +35,7 @@
 
             displayName: 'Build with maven'
 
-          - script: java -jar target/mavenjenkins.jar
+          - script: java -jar target/mavenjenkins-1.0-SNAPSHOT.jar
 
 
             displayName: 'Running jar'
